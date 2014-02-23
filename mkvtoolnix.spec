@@ -1,11 +1,11 @@
 Summary:	Matroska video utilities
 Name:		mkvtoolnix
-Version:	5.9.0
+Version:	6.7.0
 Release:	1
 License:	GPL v2
 Group:		Applications/Multimedia
-Source0:	http://www.bunkus.org/videotools/mkvtoolnix/sources/%{name}-%{version}.tar.bz2
-# Source0-md5:	033621461ef8eb922fc1366e0a9a6f16
+Source0:	http://www.bunkus.org/videotools/mkvtoolnix/sources/%{name}-%{version}.tar.xz
+# Source0-md5:	27bb6b0a10b3bb2fcf1c3e520c300207
 Patch0:		%{name}-configure.patch
 URL:		http://www.bunkus.org/videotools/mkvtoolnix/
 BuildRequires:	autoconf
